@@ -3,50 +3,49 @@
 </p>
 
 <p align="center">
-  <a href="https://starsofdeduce.github.io/"><strong>个人主页</strong></a>
+  <a href="https://starsofdeduce.github.io/"><strong>Website</strong></a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/StarsofDeduce?tab=repositories"><strong>项目仓库</strong></a>
+  <a href="https://github.com/StarsofDeduce?tab=repositories"><strong>Repositories</strong></a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/StarsofDeduce/StarsofDeduce/issues"><strong>联系 / Issues</strong></a>
+  <a href="https://github.com/StarsofDeduce/StarsofDeduce/issues"><strong>Contact / Issues</strong></a>
 </p>
 
-## PERSONAL FILE / 个人档案
+## Personal file
 
-> 在代码、系统与界面之间，建立自己的秩序。
+> Building order at the intersection of code, systems, and interfaces.
 
-独立开发者，专注 **Windows 工具、系统交互与界面结构**。我喜欢把复杂实现留在底层，让界面保持清楚、克制，并真正减少操作成本。
+Independent developer focused on **Windows utilities, system integration, and interface architecture**. I prefer to keep complexity below the surface so the interface stays clear, deliberate, and genuinely reduces the cost of everyday actions.
 
 <table>
   <tr>
     <td><strong>BASE</strong><br>GitHub / Windows</td>
-    <td><strong>FOCUS</strong><br>效率与体验</td>
-    <td><strong>STATUS</strong><br>持续构建</td>
+    <td><strong>FOCUS</strong><br>Efficiency and experience</td>
+    <td><strong>STATUS</strong><br>Continuously building</td>
   </tr>
 </table>
 
-## DEPLOYED SYSTEMS / 解决方案
+## Deployed systems
 
 <p align="center">
-  <img src="./assets/project-grid.svg" alt="Aplomb、Tar V 与 WindHawk 项目概览" width="100%">
+  <img src="./assets/project-grid.svg" alt="Overview of Aplomb, Tar V, and WindHawk projects" width="100%">
 </p>
 
-| 编号 | 项目 | 解决的问题 | 技术路径 |
+| ID | Project | Problem it solves | Technical approach |
 |:---:|---|---|---|
-| `SYS-01` | [**Aplomb**](https://github.com/StarsofDeduce/Aplomb) | 按可见边框精确对齐的 Windows 窗口居中工具 | Python · PySide6 · Win32 |
-| `SYS-02` | [**Tar V**](https://github.com/StarsofDeduce/Tar-V) | 以轻量面板重新组织 Windows 常用入口 | Electron · Node.js · Win32 |
-| `SYS-03` | [**WindHawk**](https://github.com/StarsofDeduce/WindHawk) | 针对 Windows 交互细节的系统级修正 | C++ · System Hook |
+| `SYS-01` | [**Aplomb**](https://github.com/StarsofDeduce/Aplomb) | Centers Windows applications precisely by their visible frame | Python · PySide6 · Win32 |
+| `SYS-02` | [**Tar V**](https://github.com/StarsofDeduce/Tar-V) | Reorganizes frequently used Windows shortcuts into a lightweight panel | Electron · Node.js · Win32 |
+| `SYS-03` | [**WindHawk**](https://github.com/StarsofDeduce/WindHawk) | Refines small but persistent Windows interaction details | C++ · system hooks |
 
-## SYSTEM STACK / 技术栈
+## System stack
 
 `Python` · `PySide6` · `C++` · `Win32` · `Electron` · `TypeScript` · `JavaScript` · `HTML/CSS` · `PowerShell`
 
-## KNOWLEDGE ARCHIVE / 工作札记
+## Knowledge archive
 
-开发过程、实现边界与设计判断会整理到 [**个人博客**](https://starsofdeduce.github.io/)；这里不堆砌动态统计图，只保留能说明我在构建什么、为什么构建的内容。
+Development notes, implementation boundaries, and design decisions are collected on my [personal website](https://starsofdeduce.github.io/). This profile avoids decorative activity widgets and keeps only the information that explains what I am building and why.
 
 <p align="center">
   <img src="./assets/status-strip.svg" alt="Archive online — interface, system, Windows" width="100%">
 </p>
 
-<!-- GitHub 原生贡献热力图会自动显示在 Profile README 与置顶仓库之后，无需嵌入第三方图片。 -->
-
+<!-- GitHub's native contribution graph already appears on the profile; no third-party activity image is required. -->
